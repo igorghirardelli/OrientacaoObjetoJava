@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OrientacaoObjetoJava.iml" filepath="$PROJECT_DIR$/.idea/OrientacaoObjetoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carro/carro.iml" filepath="$PROJECT_DIR$/carro/carro.iml" />
     </modules>
   </component>
 </project>
