@@ -168,7 +168,7 @@ public class Mercado {
         }
         System.out.println("O valor da sua compra é: " + utils.doubleToString(valorDaCompra));
         carrinho.clear();
-        System.out.println("Obrigado pela preferencia !");
+        System.out.println("Obrigado pela preferencia!");
         menu();
     }
 
