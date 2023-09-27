@@ -22,9 +22,9 @@ public class TesteCarro {
 
         System.out.println(Fusca.marca);
         System.out.println(Fusca.modelo);
-        //System.out.println("A capacidade de passageiros é = "+Fusca.numPassageiros);
-        //System.out.println("A capacidade de combustivel é = "+Fusca.capCombustivel);
-        //System.out.println("O consumo de combustivel por litro é = "+Fusca.capCombustivel);
+        System.out.println("A capacidade de passageiros é = "+Fusca.numPassageiros);
+        System.out.println("A capacidade de combustivel é = "+Fusca.capCombustivel);
+        System.out.println("O consumo de combustivel por litro é = "+Fusca.capCombustivel);
 
 
 

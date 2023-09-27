@@ -3,17 +3,19 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("TESTE TESTE TESTE");
 
-        int i = 10;
 
-        int j = 20;
+        //int valor;
 
-        i++;
+        for(int i = 0; i<=30; i++){
+            if(i% 2 == 0){
+                System.out.print("Numeros pares = " +i);
+            }else{
+                System.out.println(" Numeros impares = "+i);
+            }
 
-        int r = i + j%2;
+        }
 
-        r *= j;
 
-        System.out.println(r);
 
     }
 }
